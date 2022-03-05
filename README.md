@@ -10,6 +10,10 @@ Go sample repo for demonstrating TDD and delve debugging.
 
 ## Explanation
 
+```shell
+git clone https://github.com/go-zen-chu/delve-debug-demo.git
+```
+
 ### Understanding problem
 
 1. Explain about main.go and count.go
